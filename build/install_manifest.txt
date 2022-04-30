@@ -1,0 +1,9 @@
+/home/ucar/cvbridge_py3/install/_setup_util.py
+/home/ucar/cvbridge_py3/install/env.sh
+/home/ucar/cvbridge_py3/install/setup.bash
+/home/ucar/cvbridge_py3/install/local_setup.bash
+/home/ucar/cvbridge_py3/install/setup.sh
+/home/ucar/cvbridge_py3/install/local_setup.sh
+/home/ucar/cvbridge_py3/install/setup.zsh
+/home/ucar/cvbridge_py3/install/local_setup.zsh
+/home/ucar/cvbridge_py3/install/.rosinstall
